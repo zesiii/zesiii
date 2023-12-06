@@ -5,7 +5,7 @@
 
 This project significantly expanded my expertise in optimizing AI to better assist us. I am now confident in applying prompt engineering to large-scale analyses.
 
-🔧 My Toolbox:
+### 🔧 My Toolbox:
 Python (scikit-learn; TensorFlow; pandas) | R | MySQL | Tableau
 
 Machine Learning | Data Mining | NLP | Prompt Engineering | Descriptive Statistics
