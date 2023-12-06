@@ -1,17 +1,18 @@
-### Hi! this is Yuntian Zhang, currenlty a grad student at QMSS, Columbia University, with Data Science Focus.🙌
-💫I've been trying to harness the power of data to generate business insights and guide decision making. Therefore, my interests lie in the intersection of data and other industries, mainly tech and business. 
+### Hi there! I'm Yuntian Zhang, a graduate student at QMSS, Columbia University, specializing in Data Science. 🙌
+💫 My passion lies in leveraging the power of data to derive business insights and inform strategic decision-making. I'm particularly interested in the crossroads of data and various industries, with a focus on technology and business.
 
-⌨Currently, I'm working on a capstone project with KPMG to conduct sentiment analysis on move reviews using prompt engineering and predict box revenue. We used Mean Opinion Score to get ground truth label and gauge GPT-generated score to approximate MOS score. During this process, we dealt with various NLP problems like irony, satire, defining neutral. I then built an ensembled machine learning model to predict box office revenue. The model was connected with front-end UI and added similarity search to yield results. 
+⌨ Currently, I'm working on a capstone project with KPMG, where we are conducting sentiment analysis on movie reviews. Our goal is to predict box office revenue through prompt engineering. To achieve this, we utilized Mean Opinion Score as the ground truth label and gauged GPT-generated scores to approximate MOS score. Throughout this process, I navigated various traditional NLP challenges such as irony, satire, and defining neutrality. The outcome was an ensemble machine learning model seamlessly integrated with a front-end UI and enhanced with similarity search capabilities for robust results.
 
-This project significantly broadens my knowledge on how to make AI better assist us. I'm now confident to utilize prompt engineering in large-scale analysis. 
+This project significantly expanded my expertise in optimizing AI to better assist us. I am now confident in applying prompt engineering to large-scale analyses.
 
-### 🔧My toolbox: 
-  Python (scikit learn; tensorflow; pandas) | R | MySQL | Tableau
-  
-  Machine Learning | Data Mining | NLP | Prompt Engineering | Descriptive Statistics
-  
-  Corporate Finance | Platform Economics 
-### 📢Contact
+🔧 My Toolbox:
+Python (scikit-learn; TensorFlow; pandas) | R | MySQL | Tableau
+
+Machine Learning | Data Mining | NLP | Prompt Engineering | Descriptive Statistics
+
+Corporate Finance | Platform Economics
+
+📢 Contact:
 Email: elinazhang6@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/yuntian-zhang-6b33a4284/
