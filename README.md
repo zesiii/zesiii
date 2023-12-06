@@ -1,4 +1,4 @@
-### Hi there, this is Yuntian Zhang, currenlty a grad student at QMSS, Columbia University, with Data Science Focus.🙌
+### Hi! this is Yuntian Zhang, currenlty a grad student at QMSS, Columbia University, with Data Science Focus.🙌
 💫I've been trying to harness the power of data to generate business insights and guide decision making. Therefore, my interests lie in the intersection of data and other industries, mainly tech and business. 
 
 ⌨Currently, I'm working on a capstone project with KPMG to conduct sentiment analysis on move reviews using prompt engineering and predict box revenue. We used Mean Opinion Score to get ground truth label and gauge GPT-generated score to approximate MOS score. During this process, we dealt with various NLP problems like irony, satire, defining neutral. I then built an ensembled machine learning model to predict box office revenue. The model was connected with front-end UI and added similarity search to yield results. 
@@ -12,6 +12,7 @@
   Corporate Finance | Platform Economics 
 ### 📢Contact
 Email: elinazhang6@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/yuntian-zhang-6b33a4284/
 <!--
 **zesiii/zesiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
