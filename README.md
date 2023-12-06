@@ -12,7 +12,7 @@ Machine Learning | Data Mining | NLP | Prompt Engineering | Descriptive Statisti
 
 Corporate Finance | Platform Economics
 
-📢 Contact:
+### 📢 Contact:
 Email: elinazhang6@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/yuntian-zhang-6b33a4284/
