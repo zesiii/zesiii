@@ -3,7 +3,8 @@
 
 ⌨Currently, I'm working on a capstone project with KPMG to conduct sentiment analysis on move reviews using prompt engineering and predict box revenue. We used Mean Opinion Score to get ground truth label and gauge GPT-generated score to approximate MOS score. During this process, we dealt with various NLP problems like irony, satire, defining neutral. I then built an ensembled machine learning model to predict box office revenue. The model was connected with front-end UI and added similarity search to yield results. 
 
-  From this project, I better understand the logic and mechanism of Generative AI and how to use it in large-scale analysis. 
+This project significantly broadens my knowledge on how to make AI better assist us. I'm now confident to utilize prompt engineering in large-scale analysis. 
+
 ### 🔧My toolbox: 
   Python (scikit learn; tensorflow; pandas) | R | MySQL | Tableau
   
