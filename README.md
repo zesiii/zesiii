@@ -1,19 +1,17 @@
-### Hi there! I'm Yuntian Zhang, a graduate student at QMSS, Columbia University, specializing in Data Science. 🙌
+### Hi there! I'm Yuntian Zhang, currently a graduate student at QMSS, Columbia University, specializing in Data Science. 🙌 I'll be graduating in 12/2024.
 💫 My passion lies in leveraging the power of data to derive business insights and inform strategic decision-making. I'm particularly interested in the crossroads of data and various industries, with a focus on technology and business.
 
-⌨ Currently, I'm working on a capstone project with KPMG, where we are conducting sentiment analysis on movie reviews. Our goal is to predict box office revenue through prompt engineering. To achieve this, we utilized Mean Opinion Score as the ground truth label and gauged GPT-generated scores to approximate MOS score. Throughout this process, I navigated various traditional NLP challenges such as irony, satire, and defining neutrality. The outcome was an ensemble machine learning model seamlessly integrated with a front-end UI and enhanced with similarity search capabilities for robust results.
-
-This project significantly expanded my expertise in optimizing AI to better assist us. I am now confident in applying prompt engineering to large-scale analyses.
+🔛 This semester, I'm studying Bayesian statistics, CNN and Visualization along with webpage building. 
 
 ### 🔧 My Toolbox:
-Python (scikit-learn; TensorFlow; pandas) | R | MySQL | Tableau
+Python (scikit-learn; TensorFlow; keras; numpy; pandas) | R | MySQL | Tableau
 
-Machine Learning | Data Mining | NLP | Prompt Engineering | Descriptive Statistics
+Machine Learning | Deep Learning | Data Mining | VIsualization | NLP | Prompt Engineering | Descriptive Statistics
 
-Corporate Finance | Platform Economics
+Business Insights | Corporate Finance | Platform Economics
 
 ### 📢 Contact:
-Email: elinazhang6@gmail.com
+Email: elinazhang6@gmail.com | elinazhang6@163.com
 
 LinkedIn: https://www.linkedin.com/in/yuntian-zhang-6b33a4284/
 <!--
