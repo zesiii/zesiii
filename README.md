@@ -13,7 +13,7 @@ Machine Learning | Deep Learning | Operations | Data Mining | Visualization | NL
 Business Insights | Finance | Platform Economics
 
 ### 📂 Projects:
-[Movie Production Chatbot via ChatGPT-3.5 Prompt Engineering](.../movie-production-chatbot) 
+[Movie Production Chatbot via ChatGPT-3.5 Prompt Engineering](movie-production-chatbot) 
 This is the capstone I worked on last semester, collaborating with KPMG Lighthouse.
 
 We used few-shot prompting by adding context, roles and rules. Achieved 96% accuracy after iterative updates. Then built a machine learning model for box office prediction, involving preprocessing, feature engineering, hyperparameter tuning, and ensemble. The final model achieved an RMSE of 1.1.
