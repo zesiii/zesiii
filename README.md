@@ -6,11 +6,11 @@
 🚄 Currently looking for internship during 05/2024 - 08/2024 :)
 
 ### 🔧 My Toolbox:
-Python (scikit-learn; TensorFlow; keras; numpy; pandas) | R | MySQL | Tableau
+Python (scikit-learn; TensorFlow; keras; numpy; pandas) | R | Hive, MySQL | Tableau
 
 Machine Learning | Deep Learning | Operations | Data Mining | Visualization | NLP | Prompt Engineering |
 
-Business Insights | Finance | Platform Economics
+Data Analysis | Business Insights | Finance 
 
 ### 📂 Projects:
 [Movie Production Chatbot via ChatGPT-3.5 Prompt Engineering](https://github.com/zesiii/movie-production-chatbot) 
@@ -21,6 +21,10 @@ We used few-shot prompting by adding context, roles and rules. Achieved 96% accu
 Finally, we implemented similarity search to connect front-end with back-end using cosine similarity. Backend retrieves movies most similar to input from the database, feeds their features into the prediction model, and outputs predicted box office results and casting recommendation list on the UI.
 
 You can input their movie script draft, and our chatbot will provide you with box office prediction, budget prediction and recommended casts. 
+
+[Visualization on Central Park Squirrels](https://github.com/QMSS-G5063-2024/Group_G_Squirrel/blob/main/README.md)
+We used 2018 Central Park Squirrel Census data to map squirrel demographics and life in Central Park. 
+
 
 ### 📢 Contact:
 Please connect with me! I'd love to meet new people in data field. 
